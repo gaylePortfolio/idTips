@@ -1,0 +1,295 @@
+WEBVTT
+
+00:01.500 --> 00:04.860
+In this video I'm going to demonstrate the tips and tricks I've shared with you.
+
+00:05.640 --> 00:10.590
+First, I'll show you how I use my "Project Working Doc" when collaborating with SMEs (Subject Matter Experts) to build a Rise course.
+
+00:11.340 --> 00:17.060
+I use the heading functionality in Google docs to correspond to the blocks of content in my Rise course.
+
+00:17.920 --> 00:23.450
+In my doc, I have a single Heading 1 topic corresponding to the title of my Project Working Doc.
+
+00:24.140 --> 00:26.270
+Everything else is a Heading 2 or less.
+
+00:27.040 --> 00:32.460
+The reason why I have a singular Heading 1 in my Google docs is to meet accessibility requirements.
+
+00:32.910 --> 00:41.260
+Screen readers require one and only one Heading 1 element in any DOM or Document Object Model structure to work properly.
+
+00:41.260 --> 00:49.370
+For this project, I was collaborating with SMEs that use screen readers. Practice tip: It's important for any job aids that you create using Google
+
+00:49.370 --> 00:55.650
+docs that you have exactly one Heading 1 element in your document to make your job aid accessible.
+
+00:55.650 --> 01:01.830
+In my doc, I include a number of links for quick references, including a link to the corresponding 
+
+01:01.830 --> 01:09.870
+Review 360 link for the course. And, I add the published details and Workday Learning link when the project is completed for future reference.
+
+01:11.840 --> 01:20.210
+Most of my courses start with a Course Overview lesson. This is denoted with a Heading 2 style in my Project Working Doc to make it easy to read
+
+01:20.290 --> 01:28.710
+and provide accessible navigation. When I work with SMEs, I encourage them to make edits using the suggestions or comment feature of Google docs.
+
+01:29.140 --> 01:35.660
+For example, if the SME wanted to delete this content - the SME would change the mode from Editing to Suggesting,
+
+01:36.240 --> 01:39.750
+delete the content, and optionally add a comment about their change for me.
+
+01:40.640 --> 01:48.640
+As I make the change in the Rise content, I accept the suggestions in Google docs and the content stays aligned between Rise and my project.
+
+01:48.640 --> 01:49.250
+working doc.
+
+01:50.600 --> 01:55.460
+Now I'll show you how the content and the Project Working Doc matches content in a completed Rise course.
+
+01:56.540 --> 02:05.390
+First let's find my accessibility for PMs (Product Managers) course. I have a lot of different folders in my Rise account to organize my projects. 
+
+02:05.400 --> 02:13.660
+Rise automatically keeps your content and the All Courses folder sorted by recent update date as the default, or you can sort by course name.
+
+02:14.430 --> 02:19.570
+Since I have so many projects, I find this difficult and cumbersome.
+
+02:19.660 --> 02:22.150
+Practice Tip: Use Rise folders to organize your content.
+
+02:23.440 --> 02:29.020
+I use a zero 0GN Drafts - In Progress folder to store my currently active projects.
+
+02:29.290 --> 02:36.540
+The zero makes it appear first in the list of the project folders. The Accessibility for PM's project is already completed,
+
+02:36.710 --> 02:44.040
+so I have moved it into my Dev Ed - Primary Source Files folder. Since everything is sorted by date and it's the last project I published,
+
+02:44.050 --> 02:49.760
+it'll be at the top of this folder. Okay, so let's review the content and the Rise course for this project.
+
+02:50.740 --> 02:59.030
+My courses typically have a large - what I call a Catalog Overview page. This information is copied into Workday Learning by our learning administrators
+
+02:59.030 --> 03:04.250
+before publication. Here you see my first Rise lesson called Course Overview.
+
+03:05.040 --> 03:13.810
+The simple content in this lesson matches the content in my Project Working Doc. As you can see, the Text Blocks and a Quote Block in Rise correspond
+
+03:13.830 --> 03:15.860
+to the labeled content in my doc.
+
+03:18.740 --> 03:21.560
+I state the learning objectives using a Numbered List.
+
+03:23.240 --> 03:29.450
+Rise Checkbox Lists are NOT accessible - so avoid using them. Now let's look at a more complicated lesson.
+
+03:30.240 --> 03:35.980
+The Applying the Definition of Done lesson has a lot of content in it organized by Best Practice Tips.
+
+03:36.540 --> 03:41.740
+This content is built with paragraphs heading, a video, a labeled graphic
+
+03:41.750 --> 03:42.360
+and more.
+
+03:44.940 --> 03:53.010
+Specifically, let's look at the content called "A cautionary tale" that was built using a Labeled Graphic Block and a custom SVG graphic
+
+03:53.010 --> 03:53.990
+from Google slides.
+
+03:54.740 --> 04:02.740
+It starts with some paragraph content. Then the Annotated image Labeled Graphic Block has instructions and the image
+
+04:02.740 --> 04:04.260
+name with alt text.
+
+04:05.120 --> 04:13.680
+It's important to make your labeled graphics accessible for all users. Rise uses the HTML label "markers" to describe the annotation
+
+04:13.680 --> 04:21.780
+label interactions in the DOM. So be sure to use the word markers in your instructions to help users using screen readers
+
+04:21.780 --> 04:30.350
+navigate your labeled graphic. Additionally add a number image to each marker and/or make the text on the annotation correspond
+
+04:30.350 --> 04:37.160
+to the image item it's labeling. In my project doc I've used headings to distinguish between the different markers and content.
+
+04:37.740 --> 04:44.760
+So for example the marker "I" Spoiler Alert heading in my doc corresponds to the label with the "i" icon in Rise.
+
+04:45.530 --> 04:52.940
+The other markers have number icons added to help with accessibility navigation on the graphic. As the SMEs and I collaborated on this image,
+
+04:53.250 --> 04:59.310
+we use the comment and suggestions feature to make many changes. In fact, the image you see here is not the original image
+
+04:59.310 --> 05:00.160
+we started with!
+
+05:01.040 --> 05:06.100
+Reviewing the comment feature of the Google doc you can view the history of when and why those changes were made.
+
+05:06.940 --> 05:11.170
+For custom images used in this course and in others, I use Google slides.
+
+05:11.940 --> 05:17.850
+For each project, I create a Google slide deck reusing Workday Brand Template slides whenever possible.
+
+05:18.740 --> 05:23.060
+Here you can see the Google slide I used to create the labeled graphic image used in Rise.
+
+05:24.140 --> 05:32.040
+I made sure to leave extra spaces on my buttons to have a nice background contrast color for the marker annotations. To add the image to Rise,
+
+05:32.050 --> 05:40.460
+select your slide. Then select File > Download SVG option to have a clear scalable image to view for any device.
+
+05:41.140 --> 05:49.360
+The file will automatically be named with your slide deck title. This is obnoxious as I continually have to rename the image to be something meaningful.
+
+05:50.340 --> 05:56.990
+When you rename your image, be sure to keep the required alt text accessibility naming requirements in mind.
+
+05:57.020 --> 06:05.590
+So for example, this image might be named "worker with tangled wires on a computer". Generally I do not open my SVG file and I recommend
+
+06:05.590 --> 06:08.550
+that you don't open it either unless you have Adobe Illustrator.
+
+06:09.640 --> 06:14.260
+Upload the SVG into your Rise Labeled Graphic Block directly from your Downloads folder.
+
+06:15.240 --> 06:23.340
+Since most SMEs do not have Adobe Illustrator, I typically also download a PNG version of the image to share in docs, Slack or other
+
+06:23.340 --> 06:24.860
+ways as needed for feedback.
+
+06:25.940 --> 06:34.350
+Here's an example of an image used by modifying a Workday Brand Template slide to illustrate personas and another custom image created by the SMEs
+
+06:34.360 --> 06:41.130
+about contrast ratios. When I have videos In my course, I always create the script for the video and a separate Google doc.
+
+06:41.390 --> 06:49.740
+I collaborate with the SMEs to make sure the wording is just right and add a link to the video script in my Project Working Doc. I use the comments
+
+06:49.740 --> 06:55.500
+to remind myself to create the VTT files for closed captions and upload them to Rise before publication.
+
+06:56.540 --> 07:02.860
+The video script doc is super helpful when proofreading the VTT files for spellings, punctuation and capitalizations.
+
+07:03.530 --> 07:09.120
+Most courses I create have a Knowledge Check required for completion credit. I use Google docs to organize,
+
+07:09.130 --> 07:17.200
+edit, and maintain the questions. Specifically, I use Google doc headings and a table of contents to have easy links to edit the various parts of
+
+07:17.210 --> 07:25.200
+my questions. When you are adding Knowledge Check questions in Rise, you enter them in a certain order. This authored order is how I number and label the questions
+
+07:25.200 --> 07:33.250
+in my doc. Typically I use the Unlimited Quiz, Randomize Question Order, and Shuffle Answer Choice settings for the learners
+
+07:33.250 --> 07:41.250
+in Rise for Knowledge Check lessons. This presents a challenge when trying to track user feedback after publication about questions that may have errors or need to
+
+07:41.250 --> 07:49.670
+be modified. The numbering helps me and others keep track of what the content is. Something I learned while creating the accessibility for PM's course
+
+07:49.770 --> 07:54.950
+is only the Rise Knowledge Check multiple choice question type is accessible.
+
+07:55.940 --> 08:02.210
+Previously I had used matching and check all that apply multiple response questions in my Knowledge Checks for other courses.
+
+08:03.440 --> 08:11.260
+To make accessible versions of these types of questions for the course, I wrote all the questions as multiple choice types with a few creative twists.
+
+08:11.940 --> 08:16.860
+For example in Question 1 - Workday Success. It's a true simple true or false question.
+
+08:17.630 --> 08:24.590
+The answer choice of green indicates what is correct in my project doc and the feedback matches what you see in the Rise feedback option.
+
+08:26.340 --> 08:34.050
+Question 2 -  Accessibility Requirements I would typically have written as a multiple response check all that apply type of question.
+
+08:35.240 --> 08:43.240
+To make the question accessible, I list many true choices and write the instructions of the question to ask which of the following is NOT considered a
+
+08:43.240 --> 08:50.690
+requirement. I have found having a Knowledge Check doc is really helpful when asking others to quickly test your course and for maintenance going forward.
+
+08:51.640 --> 08:59.780
+Here's an example of a course template I have shared with my PTLE team. I typically denote everything in red and use TBD to denote content
+
+08:59.790 --> 09:00.750
+I need to change.
+
+09:01.740 --> 09:09.740
+Here you can see how the Catalog Overview template was used in the Accessibility for PMs course. The red/TBD content has been updated for our learning
+
+09:09.740 --> 09:12.710
+admins to use when publishing the course to Workday Learning.
+
+09:13.840 --> 09:21.250
+In the template itself, there are sample lessons. First, there is a Sample Course Overview lesson with the template.
+
+09:21.640 --> 09:27.910
+It's a sample example with a quote and a placeholder. Here you can see how that template was used in my Rise course.
+
+09:30.040 --> 09:38.140
+I have two different types of content lesson samples. The first one is a general content sample with actual content in it
+
+09:38.140 --> 09:43.660
+about Workday. It's all about the customer journey and tenants - something everyone at Workday should know.
+
+09:44.140 --> 09:50.460
+It illustrates the flow of content, including a video and accordion interactions as a sample to edit with your own content.
+
+09:51.440 --> 09:56.700
+There's a sample exercise lesson. This is a format I use for instruction content for developers.
+
+09:59.440 --> 10:07.810
+You can see there are a few sample course summary options. And, some internal reference material that contains links to common documents our team uses
+
+10:07.820 --> 10:15.870
+including the QA content checklist, accessibility requirements and sample process guidelines. To add Shared Block Template content
+
+10:15.870 --> 10:23.910
+within a new lesson, select All Blocks >  Block Templates and then you search. I have created and shared a number of black templates
+
+10:23.910 --> 10:26.660
+with the S. B. T underscore (SBT_) prefix.
+
+10:27.840 --> 10:32.280
+For example, you may want to add the link to the Workday architecture map to your course.
+
+10:33.240 --> 10:40.010
+Another block template is the SBT_Sample Labeled Graphic Dev Tips - which is very similar to the interaction
+
+10:40.010 --> 10:43.160
+I used to build this tips and tricks course for you.
+
+10:44.710 --> 10:50.430
+I hope you found this demo helpful. Best wishes to you and I hope you share your tips and tricks with the learning community,
+
+10:50.430 --> 10:52.360
+too. Thanks for watching!
